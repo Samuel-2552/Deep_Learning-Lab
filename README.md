@@ -32,3 +32,5 @@ What is Keras?
 
 What are the Keras Models?
 Sequential and Functional.
+
+What are the keras layers.
