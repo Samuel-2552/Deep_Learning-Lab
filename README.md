@@ -33,4 +33,27 @@ What is Keras?
 What are the Keras Models?
 Sequential and Functional.
 
-What are the keras layers.
+What are the keras layers?
+
+What are the keras application?
+https://keras.io/api/applications/
+Xception
+VGG16
+VGG19
+Resnet50
+InceptionV3
+Inception resnetV2
+Mobile net
+dense net
+NASNED 
+mobile net v2 tk
+
+What are the Libraries included in the tensor flow?
+https://www.tensorflow.org/resources/libraries-extensions
+
+Use of pandas, numpy, sci-kit learn, seaborn?
+
+
+UCI Machine Learning Repository.
+provides most of the dataset for classfication, regression etc.
+https://archive.ics.uci.edu/ml/index.php
