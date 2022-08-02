@@ -24,3 +24,11 @@ Understanding how deep learning works:
 ![image](https://user-images.githubusercontent.com/104893913/182282887-46902d0b-3767-43b6-81e9-edf5cfe1f889.png)
 3.) The loss score is used as signal to adjust weights
 ![image](https://user-images.githubusercontent.com/104893913/182282963-e336ecf0-dfca-479f-a7f1-3e5700d3fe65.png)
+
+What is Tensor Flow?
+
+What is Keras?
+
+
+What are the Keras Models?
+Sequential and Functional.
