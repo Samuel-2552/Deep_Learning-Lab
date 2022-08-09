@@ -57,3 +57,5 @@ Use of pandas, numpy, sci-kit learn, seaborn?
 UCI Machine Learning Repository.
 provides most of the dataset for classfication, regression etc.
 https://archive.ics.uci.edu/ml/index.php
+
+Towards Data Science & MAcjine Learning Mastery Sites for reference.
